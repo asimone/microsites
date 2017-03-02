@@ -1,0 +1,2 @@
+# thisisnotshitty
+a dumb website

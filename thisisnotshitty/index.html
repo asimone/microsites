@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>You did good!</title>
+<link rel="icon" href="/thumbs-up.ico" type="image/x-icon"/>
+<style>
+.content {
+width: 470px;
+margin: 0px auto;
+margin-top: 150px;
+}
+audio {
+visibility: hidden;
+}
+
+@media (min-device-width:320px) and (max-device-width:768px) {
+audio {
+visibility: visible;
+margin-top: 1100px;
+margin-left: -200px;
+height:100px;
+}
+}
+
+html { 
+  background: url(clap.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+</style>
+
+</head>
+<body>
+<div class="content">
+
+<audio controls autoplay loop>
+<source src="https://asimone.keybase.pub/sounds/applause.mp3" type="audio/mpeg">
+<source src="https://asimone.keybase.pub/sounds/applause.ogg" type="audio/ogg">
+</audio>
+</div>
+</body>
+</html>
