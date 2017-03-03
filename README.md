@@ -17,4 +17,4 @@ silly websites I made to troll my friends
 
 [Ugh Kevin](https://asimone.github.io/microsites/ughkevin)
 
-[Ugh Michael Phelps](https://asimone.github.io/microsites/ughmichaelphels)
+[Ugh Michael Phelps](https://asimone.github.io/microsites/ughmichaelphelps)
