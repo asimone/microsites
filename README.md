@@ -7,7 +7,7 @@ silly websites I made to troll my friends
 
 [Farhad failed](https://asimone.github.io/microsites/farjoo)
 
-[This is shitty](https://asimone.github.io/microsites/thisishitty)
+[This is shitty](https://asimone.github.io/microsites/shitty/)
 
 [This is not shitty](https://asimone.github.io/microsites/thisisnotshitty)
 
