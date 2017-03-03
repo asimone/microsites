@@ -1,2 +1,0 @@
-# thisisnotshitty
-a dumb website
