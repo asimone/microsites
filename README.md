@@ -1,4 +1,4 @@
-# ugh
+# microsites
 silly websites I made to troll my friends
 
 [a floating bearhead](https://asimone.github.io/microsites/bearhead)
