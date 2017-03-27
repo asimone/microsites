@@ -18,3 +18,5 @@ silly websites I made to troll my friends
 [Ugh Kevin](https://asimone.github.io/microsites/ughkevin)
 
 [Ugh Michael Phelps](https://asimone.github.io/microsites/ughmichaelphelps)
+
+[Papa Ryan DOT Life](https://asimone.github.io/microsites/paparyan)
