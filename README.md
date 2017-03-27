@@ -19,4 +19,4 @@ silly websites I made to troll my friends
 
 [Ugh Michael Phelps](https://asimone.github.io/microsites/ughmichaelphelps)
 
-[Papa Ryan DOT Life](https://asimone.github.io/microsites/paparyan)
+[Papa Ryan DOT Life](https://paparyan.life)
